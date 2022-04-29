@@ -85,6 +85,9 @@ img.container-card__img {
 .card:active {
   box-shadow: var(--shadow1), var(--shadow2), var(--shadow3);
 }
+.card:hover {
+  box-shadow: var(--shadow1), var(--shadow2), var(--shadow3);
+}
 
 .copy-btn {
   padding: 10px;
